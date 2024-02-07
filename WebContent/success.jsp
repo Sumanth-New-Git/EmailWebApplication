@@ -36,7 +36,8 @@
 </head>
 <body>
     <div class="success-message">
-        <h2>Email Sent Successfully!</h2>
+        <h2>Email Sent Successfully!!!!!!</h2>
+        
         <p>Your email has been sent successfully. Check your inbox for confirmation.</p>
         <a href="compose.jsp">Compose Another Email</a>
     </div>
